@@ -33,7 +33,7 @@ Esta é uma solução para o [Desafio do componente de resumo da ordem de estat�
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Stats preview card component | Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-o-V3B-OC9T)
+- Solution URL: [Product Preview Card Component | Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-o-V3B-OC9T)
 - Live Site URL: [Product Preview Card Component](https://fabriciomaxwell.github.io/product-preview-card-component-main/)
 
 <br>
